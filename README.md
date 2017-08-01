@@ -1,3 +1,7 @@
+# New Setup Instructions
+See here - https://www.gethappyboards.com/2017/07/rolling-out-your-own-instance-of-kadira/
+And here - Nginx - Set up CORS Pre Flight
+
 Meteor Development Group has bought Kadira APM from Arunoda. We have made the original Kadira code available under the MIT License in this GitHub repository.
 
 As the code we're running in Galaxy has diverged, we will not be running this repository as an open source project. We've started a conversation with potential maintainers of a community fork.
